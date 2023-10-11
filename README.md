@@ -1,9 +1,8 @@
 ### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I'm a Software Engineeer
+I am a Software Engineeer:
 
 ### skills
+HTML CSS JAVASCRIPT PYTHON JAVA C++ C SQL REACT 
 
+### hosting
+FIREBASE
