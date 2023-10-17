@@ -2,7 +2,7 @@
 I am a Software Engineeer:
 
 ### skills
-HTML CSS JAVASCRIPT PYTHON JAVA C++ C SQL REACT 
+REACT, HTML CSS & JAVASCRIPT, PYTHON, JAVA, C++, C, SQL 
 
 ## hosting
 FIREBASE
