@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Abel Ronoh,
+### Hi there 👋, I am Abel Ronoh,
+
 A Front-end software engineer with experience and understanding in developing full stack web apps.
 
 ### skills
