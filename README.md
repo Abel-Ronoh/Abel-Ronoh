@@ -4,7 +4,7 @@ I am a Software Engineeer:
 ### skills
 REACT, HTML CSS & JAVASCRIPT, PYTHON, JAVA, C++, C, SQL 
 
-##Database
+## Database
 Postgres, Firebase, MongoDB
 ## hosting
 FIREBASE, Vercel
