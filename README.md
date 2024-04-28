@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a Software Engineeer:
+I am Abel Ronoh,
+A Front-end software engineer with experience and understanding in developing full stack web apps.
 
 ### skills
 REACT, HTML CSS & JAVASCRIPT, PYTHON, JAVA, C++, C, SQL 
