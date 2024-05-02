@@ -3,7 +3,7 @@
 A Front-end software engineer with experience in developing full stack web apps.
 
 ### skills
-REACT, HTML CSS & JAVASCRIPT, PYTHON, JAVA, C++, C, SQL 
+REACT JS, NEXT JS, HTML CSS & JAVASCRIPT, PYTHON, JAVA, C++, C, SQL 
 
 ## Database
 Postgres, Firebase, MongoDB
