@@ -8,7 +8,7 @@ REACT JS, NEXT JS, HTML CSS & JAVASCRIPT, PYTHON, JAVA, C++, C, SQL
 ## Database
 Postgres, Firebase, MongoDB
 ## hosting
-FIREBASE, Vercel
+FIREBASE, Vercel, Github
 
 ## Contact Me
 abellronoh@gmail.com
