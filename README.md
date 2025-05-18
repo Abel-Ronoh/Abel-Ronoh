@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abel-ronoh" alt="abel-ronoh" /></a> </p>
 
-- ## My Portfolio: [https://portfolio25-self.vercel.app/](https://portfolio25-self.vercel.app/)
+- ## My Portfolio: [Abel-Ronoh](https://portfolio25-self.vercel.app/)
 
 - 💬 Ask me about ****APIs, Web & Mobile development****
   
@@ -14,8 +14,6 @@
 - 🌱 I’m currently learning **Public Speaking**
 
 - 👯 I’m looking to collaborate on **AI-News-Automation**
-
-- 👨‍💻 All of my projects are available at [https://portfolio25-self.vercel.app/](https://portfolio25-self.vercel.app/)
 
 - 📫 Reach me at **abellronoh@gmail.com**
 
