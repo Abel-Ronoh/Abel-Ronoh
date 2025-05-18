@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abel-ronoh" alt="abel-ronoh" /></a> </p>
 
+- ## My Portfolio: 
+
 - 💬 Ask me about ****APIs, Web & Mobile development****
   
 - 🔭 I’m currently working on [Smart-Study](https://github.com/Abel-Ronoh/PDF-QUESTION-GENERATOR)
@@ -13,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **AI-News-Automation**
 
-- 👨‍💻 All of my projects are available at [https://abel-ronoh.vercel.app/](https://abel-ronoh.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio25-self.vercel.app/](https://portfolio25-self.vercel.app/)
 
 - 📫 Reach me at **abellronoh@gmail.com**
 
