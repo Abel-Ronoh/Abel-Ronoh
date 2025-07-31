@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel</h1>
-<h3 align="center">A Full stack Developer</h3>
+<h3 align="center">A Full stack Web Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abel-ronoh&label=Profile%20views&color=0e75b6&style=flat" alt="abel-ronoh" /> </p>
 
@@ -7,13 +7,13 @@
 
 - ## My Portfolio: [Abel-Ronoh](https://portfolio25-self.vercel.app/)
 
-- 💬 Ask me about ****APIs, Web & Mobile development****
+- 💬 Ask me about ****Architecture, Collaboration, APIs, Web & Algorithms****
   
 - 🔭 I’m currently working on [Smart-Study](https://github.com/Abel-Ronoh/PDF-QUESTION-GENERATOR)
 
-- 🌱 I’m currently learning **Public Speaking**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on **AI-News-Automation**
+- 👯 I’m looking to collaborate on **Data & AI Automation**
 
 - 📫 Reach me at **abellronoh@gmail.com**
 
